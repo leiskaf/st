@@ -2,7 +2,6 @@
 
 My fork of [st](https://st.suckless.org/) which has some additional patches such as:
 * alpha/transparency
-* a brighter default colorscheme
 * clipboard support
   * Highlighting text automatically copies it to clipboard
   * `MB3` pastes from clipboard
