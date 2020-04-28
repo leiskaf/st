@@ -1,8 +1,7 @@
 # st-leiska
 
-My personal fork of [st](https://st.suckless.org/) which has some additional features such as:
+My fork of [st](https://st.suckless.org/) which has some additional patches such as:
 * alpha/transparency
-* default font is Ubuntu Mono
 * a brighter default colorscheme
 * clipboard support
   * Highlighting text automatically copies it to clipboard
@@ -21,8 +20,7 @@ My personal fork of [st](https://st.suckless.org/) which has some additional fea
 
     sudo make clean install
 
-In order to build st you need the Xlib header files and the Ubuntu font family,
-in case you don't change the default font in config.def.h/config.h.
+In order to build st you need the Xlib header files
 
 For alpha you also need a composite manager such as `xcompmgr`
 
