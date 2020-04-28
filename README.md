@@ -1,4 +1,4 @@
-# st-leiska
+# st
 
 My fork of [st](https://st.suckless.org/) which has some additional patches such as:
 * alpha/transparency
